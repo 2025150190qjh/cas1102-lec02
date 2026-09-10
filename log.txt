@@ -1,7 +1,49 @@
-f54956e Merge and resolve
-f91bc88 2025150190
-bc56780 Add ZHAO SHENGXUAN to README
-60c89ad add my name
-dea5f0f Merge remote initial commit
-b3f345c Add README with my name
-a959a74 First commit: add README
+commit 6c9296fa8b5ee3b98fe1f23b4946699e774220e9
+Author: qianjiahao <2025150190qjh@gmail.com>
+Date:   Thu Sep 10 23:36:21 2026 +0800
+
+    Add commit log
+
+commit f54956e867fc72c554bcf63e8caef43ed2212537
+Merge: f91bc88 bc56780
+Author: qianjiahao <2025150190qjh@gmail.com>
+Date:   Thu Sep 10 23:34:15 2026 +0800
+
+    Merge and resolve
+
+commit f91bc88ac93d9d7d78e637af39a86334e378ebb8
+Author: qianjiahao <2025150190qjh@gmail.com>
+Date:   Thu Sep 10 23:30:32 2026 +0800
+
+    2025150190
+
+commit bc5678034486f0c9118fbe5762d131314f233f3a
+Author: ZHAO SHENGXUAN <zhaoshengxuan067@gmail.com>
+Date:   Thu Sep 10 23:18:15 2026 +0800
+
+    Add ZHAO SHENGXUAN to README
+
+commit 60c89ad8338c65c8a97de8c6e57ee0a9d21cd0db
+Author: qianjiahao <2025150190qjh@gmail.com>
+Date:   Thu Sep 10 23:15:44 2026 +0900
+
+    add my name
+
+commit dea5f0fb96a26a4e730f777702d9f1f4f16fbf22
+Merge: b3f345c a959a74
+Author: qianjiahao <2025150190qjh@gmail.com>
+Date:   Thu Sep 10 18:55:05 2026 +0800
+
+    Merge remote initial commit
+
+commit b3f345c633b2d9f65ef8238e3bee60dda60ca6f5
+Author: qianjiahao <2025150190qjh@gmail.com>
+Date:   Thu Sep 10 18:47:30 2026 +0800
+
+    Add README with my name
+
+commit a959a744123b315c8b214ef40c8282549235147d
+Author: qianjiahao <2025150190qjh@gmail.com>
+Date:   Thu Sep 10 18:00:35 2026 +0900
+
+    First commit: add README
